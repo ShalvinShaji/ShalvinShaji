@@ -7,7 +7,6 @@ Front End Developer & Database Administrator
 * 🌍  I'm based in Kerala, India
 * 🖥️  See my portfolio at [shalvin shaji](http://shalvinshaji.netlify.app/)
 * ✉️  You can contact me at [shalvinshaji283@gmail.com](mailto:shalvinshaji283@gmail.com)
-* 🧠  I'm learning Golang
 
 ### Skills
 
